@@ -1,0 +1,66 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+  font-family: 'Oxygen', sans-serif;
+}
+
+/*Nav bar*/
+ 
+#header-nav {
+	background-color:#c8c5c1;
+	font-size:24px;
+}
+
+.navbar-brand span{
+	font-size:24px;
+}
+
+#nav-list li a {
+	text-align:center;
+}
+
+#collapsable-nav {
+	background-color:white;
+}
+
+/*NavEnds*/
+
+/*Section Article*/
+
+.container {
+	width:100%;
+}
+
+h2 {
+	margin-top:100px;
+	margin-bottom:50px;
+}
+
+h3 {
+	text-shadow: .5px .5px;
+	font-size:28px;
+}
+
+.section {
+	top
+	margin-top:15px;
+	width:99%;
+	border-radius:15px;
+	background-color:#c7c7c7;
+  	margin-bottom:35px;
+  	overflow:hidden;
+}
+
+/*Section Ends*/
+
+.line {
+	margin-bottom:-15px;
+}
+
+.line:nth-child(1) {
+	margin-top:-10px;
+}
